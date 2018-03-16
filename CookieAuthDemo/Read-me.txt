@@ -1,0 +1,5 @@
+﻿Projeto criado de demostração de Cookie Authentication.
+
+https://www.c-sharpcorner.com/article/cookie-authentication-with-asp-net-core-2-0/
+
+Utiliza ADO.Net puro para acesso do banco de dados.
